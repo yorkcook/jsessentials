@@ -1,3 +1,3 @@
 # jsessentials
 
-completed
+completed: 
